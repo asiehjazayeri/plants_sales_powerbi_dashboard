@@ -119,10 +119,15 @@ The report has been optimized using:
 
 Additional project documentation, including the data model, color theme, and project presentation, is available in the **Documentation** folder.
 
-* [Data Model](Documentation/Data-Model.png)
-* [Color Theme](Documentation/Color-Theme.png)
-* [Project Presentation](Documentation/SALES%20ANALYTICS%20DASHBOARD%20PLANTS.pdf)
+### Data Model
 
+![Data Model](./Documentation/Data-Model.png)
+
+### Color Theme
+
+![Color Theme](./Documentation/Color-Theme.png)
+
+📄 [View Project Presentation (PDF)](./Documentation/SALES%20ANALYTICS%20DASHBOARD%20PLANTS.pdf)
 ---
 
 ## 💡 Key Skills Demonstrated
