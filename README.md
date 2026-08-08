@@ -92,7 +92,7 @@ The report has been optimized using:
 
 ### 🏠 Home
 
-![Home](Screenshots/Home.png)
+![Home](./Screenshots/Home.png)
 
 ### 📈 Executive Overview
 
