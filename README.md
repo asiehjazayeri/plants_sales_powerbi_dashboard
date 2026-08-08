@@ -110,44 +110,6 @@ The report has been optimized using:
 
 ![Geographic Sales](./SCREENSHOTS/Geographic%20Sales.png)
 
-### 📋 Documentation
-
-![Documentation](./SCREENSHOTS/Documentation.png)
----
-
-## 📚 Documentation
-
-Additional project documentation, including the data model, color theme, and project presentation, is available in the **Documentation** folder.
-
-### Data Model
-
-![Data Model](./Documentation/Data-Model.png)
-
-### Color Theme
-
-![Color Theme](./Documentation/Color-Theme.png)
-
-📄 [View Project Presentation (PDF)](./Documentation/SALES%20ANALYTICS%20DASHBOARD%20PLANTS.pdf)
----
-
-## 💡 Key Skills Demonstrated
-
-* Data Modeling
-* DAX Development
-* Time Intelligence
-* Power Query
-* Dashboard Design
-* Business Intelligence
-* Data Visualization
-* Business Analysis
-* Performance Optimization
-
----
-
-## 🎯 Project Objective
-
-The objective of this dashboard is to transform sales data into actionable business insights by providing stakeholders with an interactive environment for monitoring performance, identifying trends, and exploring the underlying drivers of sales.
-
 
 ## 💡 Key Business Insights
 
@@ -194,3 +156,42 @@ The dynamic insights use advanced DAX concepts including:
 * `SELECTEDVALUE`
 * `SWITCH`
 * Dynamic text generation with `FORMAT`
+
+### 📋 Documentation
+
+![Documentation](./SCREENSHOTS/Documentation.png)
+---
+
+## 📚 Documentation
+
+Additional project documentation, including the data model, color theme, and project presentation, is available in the **Documentation** folder.
+
+### Data Model
+
+![Data Model](./Documentation/Data-Model.png)
+
+### Color Theme
+
+![Color Theme](./Documentation/Color-Theme.png)
+
+📄 [View Project Presentation (PDF)](./Documentation/SALES%20ANALYTICS%20DASHBOARD%20PLANTS.pdf)
+---
+
+## 💡 Key Skills Demonstrated
+
+* Data Modeling
+* DAX Development
+* Time Intelligence
+* Power Query
+* Dashboard Design
+* Business Intelligence
+* Data Visualization
+* Business Analysis
+* Performance Optimization
+
+---
+
+## 🎯 Project Objective
+
+The objective of this dashboard is to transform sales data into actionable business insights by providing stakeholders with an interactive environment for monitoring performance, identifying trends, and exploring the underlying drivers of sales.
+
