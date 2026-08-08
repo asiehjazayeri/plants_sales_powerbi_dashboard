@@ -147,3 +147,50 @@ Additional project documentation, including the data model, color theme, and pro
 ## 🎯 Project Objective
 
 The objective of this dashboard is to transform sales data into actionable business insights by providing stakeholders with an interactive environment for monitoring performance, identifying trends, and exploring the underlying drivers of sales.
+
+
+## 💡 Key Business Insights
+
+The dashboard uses **dynamic DAX-driven insights** to automatically translate sales metrics into concise business findings.
+
+### 📍 Leading Province
+
+**Ontario** is the leading province, contributing **21% of total sales**.
+
+### 🌳 Top-Performing Category
+
+**Ornamental Trees** is currently the best-performing product category.
+
+### 🌸 Seasonal Performance
+
+**Spring accounts for 59% of total annual sales**, highlighting a strong seasonal concentration in the business.
+
+### 📈 Year-over-Year Performance
+
+The current report context shows **0.0% YoY growth**, indicating stable performance compared with the previous year.
+
+### ⚡ Dynamic Executive Insight
+
+A consolidated executive insight dynamically combines:
+
+* Top-performing province
+* Province contribution to total sales
+* Best-performing product category
+* Year-over-year sales performance
+
+The insight updates dynamically according to the report's filter context, allowing users to explore changing business results interactively.
+
+### 🧠 DAX Techniques Used
+
+The dynamic insights use advanced DAX concepts including:
+
+* `TOPN`
+* `ADDCOLUMNS`
+* `VALUES`
+* `MAXX`
+* `CALCULATE`
+* `DATEADD`
+* `DIVIDE`
+* `SELECTEDVALUE`
+* `SWITCH`
+* Dynamic text generation with `FORMAT`
