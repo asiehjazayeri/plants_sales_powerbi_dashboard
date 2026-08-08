@@ -92,28 +92,27 @@ The report has been optimized using:
 
 ### 🏠 Home
 
-![Home](./Screenshots/Home.png)
+![Home](./SCREENSHOTS/Home.png)
 
 ### 📈 Executive Overview
 
-![Executive Overview](Screenshots/Executive%20Overview.png)
+![Executive Overview](./SCREENSHOTS/Executive%20Overview.png)
 
 ### 🔍 Root Cause Analysis
 
-![Root Cause Analysis](<Screenshots/Root Cause Analysis.png>)
+![Root Cause Analysis](./SCREENSHOTS/Root%20Cause%20Analysis.png)
 
 ### 🌿 Product & Customer Insights
 
-![Product & Customer](Screenshots/PageProduct%20%26%20Customer.png)
+![Product & Customer Insights](./SCREENSHOTS/PageProduct%20%26%20Customer.png)
 
 ### 🗺 Geographic Sales
 
-![Geographic Sales](<Screenshots/Geographic Sales.png>)
+![Geographic Sales](./SCREENSHOTS/Geographic%20Sales.png)
 
 ### 📋 Documentation
 
-![Documentation](Screenshots/Documentation.png)
-
+![Documentation](./SCREENSHOTS/Documentation.png)
 ---
 
 ## 📚 Documentation
