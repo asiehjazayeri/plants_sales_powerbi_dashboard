@@ -96,7 +96,7 @@ The report has been optimized using:
 
 ### 📈 Executive Overview
 
-![Executive Overview](<Screenshots/Executive Overview.png>)
+![Executive Overview](Screenshots/Executive%20Overview.png)
 
 ### 🔍 Root Cause Analysis
 
@@ -104,7 +104,7 @@ The report has been optimized using:
 
 ### 🌿 Product & Customer Insights
 
-![Product & Customer Insights](<Screenshots/PageProduct & Customer.png>)
+![Product & Customer](Screenshots/PageProduct%20%26%20Customer.png)
 
 ### 🗺 Geographic Sales
 
