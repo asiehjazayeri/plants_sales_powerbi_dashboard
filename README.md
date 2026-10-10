@@ -20,17 +20,23 @@ The SQL work is documented in the repository's SQL folder.
 
 ### DataBase Structure
 
-![01_Database_structure](./SCREENSHOTS/01__Database_Structure.png)
+![Database_structure](./SCREENSHOTS/01__Database_Structure.png)
 ---
-![02_Data_Quality_Check](./SCREENSHOTS/02_Data_Quality_Check.png)
+
+![Data_Quality_Check](./SCREENSHOTS/02_Data_Quality_Check.png)
 ---
-![03_Sales_Clean_View](./SCREENSHOTS/03_Sales_Clean_View.png)
+
+![Sales_Clean_View](./SCREENSHOTS/03_Sales_Clean_View.png)
 ---
-![04_Sales_By_Category](./SCREENSHOTS/04_Sales_By_Category.png)
+
+![Sales_By_Category](./SCREENSHOTS/04_Sales_By_Category.png)
 ---
-![05_Sales_Analytics_View](./SCREENSHOTS/05_Sales_Analytics_View.png)
+
+![Sales_Analytics_View](./SCREENSHOTS/05_Sales_Analytics_View.png)
 ---
-![06_PowerBi_Executive_Overview](./SCREENSHOTS/06_PowerBi_Executive_Overview.png)
+
+![PowerBi_Executive_Overview](./SCREENSHOTS/06_PowerBi_Executive_Overview.png)
+---
 
 ## 🚀 Dashboard Features
 
