@@ -1,12 +1,36 @@
-# 🌿 Sales Analytics Dashboard | Power BI
+🌿 Plants Sales Analytics | SQL Server & Power BI
 
-## 📊 Project Overview
+📊 Project Overview
+This project analyzes sales data from a Canadian plants and trees retail business using SQL Server and Power BI.
+The project begins with SQL-based data preparation, including data type corrections, data quality checks, validation of table relationships, and the creation of reusable SQL Views. The prepared data is then connected to Power BI for data modeling, DAX development, and interactive dashboard reporting.
+The goal is to transform raw business data into a reliable analytical dataset and provide insights into sales performance across products, customers, time, and geography.
 
-This project is an interactive **Power BI Sales Analytics Dashboard** designed to help business stakeholders monitor sales performance, identify trends, evaluate targets, and make data-driven decisions.
+🗄️ SQL Data Preparation
+SQL Server was used to prepare and validate the data before Power BI analysis.
+Key SQL operations include:
+- Importing raw CSV files into SQL Server.
+- Correcting data types and converting numeric fields.
+- Cleaning and standardizing sales data through vw_Sales_Clean.
+- Checking missing values and invalid records.
+- Validating relationships between sales and related tables.
+- Joining Sales with Products, Customers, Sellers, and Shipping.
+- Creating vw_Sales_Analytics for analysis-ready data.
+- Performing sales analysis using aggregate functions, joins, grouping, and sorting.
+The SQL work is documented in the repository's SQL folder.
 
-The report combines executive KPIs with interactive analytical pages, enabling users to explore sales performance across **products, customers, time, and geography**.
+### DataBase Structure
 
+![01_Database_structure](./SCREENSHOTS/01__Database_Structure.png)
 ---
+![02_Data_Quality_Check](./SCREENSHOTS/02_Data_Quality_Check.png)
+---
+![03_Sales_Clean_View](./SCREENSHOTS/03_Sales_Clean_View.png)
+---
+![04_Sales_By_Category](./SCREENSHOTS/04_Sales_By_Category.png)
+---
+![05_Sales_Analytics_View](./SCREENSHOTS/05_Sales_Analytics_View.png)
+---
+![06_PowerBi_Executive_Overview](./SCREENSHOTS/06_PowerBi_Executive_Overview.png)
 
 ## 🚀 Dashboard Features
 
